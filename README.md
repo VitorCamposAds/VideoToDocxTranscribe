@@ -67,6 +67,16 @@ Siga os passos abaixo para configurar o ambiente e executar a aplicação:
 - **python-docx**: Para manipulação de documentos Word.
 - **FFmpeg**: Para extração de áudio dos vídeos.
 
+
+## Dependências
+
+Para executar este projeto, você precisa do `ffmpeg.exe`. Devido ao seu tamanho (135 MB), não foi possível incluí-lo diretamente no repositório do GitHub, que tem um limite de 100 MB por arquivo. Portanto, você pode baixá-lo [aqui](https://drive.google.com/file/d/1fGjIiQFJBR3MXM0DpI4QzRSAcATQR-aU/view?usp=sharing).
+
+### Instruções para Download
+
+1. Clique no link acima para acessar o arquivo.
+2. Faça o download e coloque o `ffmpeg.exe` na mesma pasta que o script do projeto.
+
 ---
 
 <p align="center">

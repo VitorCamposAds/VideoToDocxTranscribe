@@ -1,6 +1,6 @@
 # 🎥 Video to DOCX Transcription App
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=App+Screenshot)
+![App Screenshot](https://github.com/VitorCamposAds/VideoToDocs_img/blob/main/VideoToDocx.png?raw=true)
 
 ## 🌟 Descrição
 

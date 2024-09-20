@@ -32,3 +32,6 @@ config.py
 # Arquivos de Teste
 .coverage
 .pytest_cache/
+
+# Ignorar ffmpeg.exe
+ffmpeg.exe

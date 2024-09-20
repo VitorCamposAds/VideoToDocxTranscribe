@@ -1,0 +1,34 @@
+# Ambiente Virtual
+venv/
+
+# Arquivos Compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de Configuração do Sistema
+.DS_Store
+Thumbs.db
+
+# Dependências de IDEs
+.idea/
+.vscode/
+
+# Arquivos de Log
+*.log
+
+# Arquivos Temporários
+*~
+*.bak
+
+# Resultados de Build
+build/
+dist/
+
+# Dados Sensíveis
+secrets.json
+config.py
+
+# Arquivos de Teste
+.coverage
+.pytest_cache/
